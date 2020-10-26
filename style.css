@@ -1,0 +1,10 @@
+.wrapper {display: flex; align-items: center; justify-content: center;}
+.offer__slider{width:650px;display:flex;flex-direction:column;align-items:center;}
+.offer__slider-counter{display:flex;width:100px;align-items:center;font-size:24px}
+.offer__slider-wrapper{width:100%;margin-top:15px;box-shadow:0 4px 30px rgba(0,0,0,.25)}
+.offer__slider-prev{margin-right:50px;cursor:pointer}
+.offer__slider-next{margin-left:5px;cursor:pointer}
+.offer__slide{width:100%;height:390px}
+.offer__slide img{width:100%;height:100%;object-fit:cover}
+.offer__slider img{width:100%;height:100%;object-fit:cover}
+
